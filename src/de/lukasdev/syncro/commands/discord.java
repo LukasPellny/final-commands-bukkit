@@ -7,7 +7,7 @@ import org.bukkit.command.CommandSender;
 public class discord implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
-        commandSender.sendMessage("AdminVersion Build create");
+        commandSender.sendMessage("your message");
         return false;
     }
 }
