@@ -1,0 +1,7 @@
+name: LukasSync
+version: 1.0
+author: LukasDev
+main: de.lukas-pellny.syncro.Syncro
+commands:
+  mhadmin:
+    aliases: [mha]
